@@ -1,2 +1,2 @@
 # Card_Design
-Card Design
+Please open Card_Design.html
